@@ -14,7 +14,7 @@ category: project
 author: alexwaibel
 ---
 
-![Screenshot](https://raw.githubusercontent.com/alexwaibel/alexwaibel.github.io/master/assets/screenshot.png)
+![Screenshot](https://waibel.us/assets/screenshot.png)
 
 I recently decided to revamp my personal website. I was previously running my own web server on a raspberry pi but decided it would be easier to host everything on Github Pages. At the same time, I wanted to redo my website, which was previously just a stylized version of my resume, and add a blog component.
 
@@ -29,5 +29,5 @@ What's powering everything?
 
 ---
 
-[Check it out](http://alexwaibel.github.io/) here. Post a comment below if you have any questions.
+[Check it out](https://waibel.us/) here. Post a comment below if you have any questions.
 The source code is available on my Github [here](https://github.com/alexwaibel/alexwaibel.github.io).

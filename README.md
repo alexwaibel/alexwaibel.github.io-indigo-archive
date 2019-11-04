@@ -1,4 +1,4 @@
-# alexwaibel.github.io
+# waibel.us
 Source code for my personal website which is hosted on Github Pages.
 
 # Dependencies

@@ -6,7 +6,7 @@ picture: assets/images/profile.png
 resume: true
 resume-external: true
 resume-url: 'https://github.com/alexwaibel/resume/blob/master/alex_waibel_resume.pdf'
-url: 'https://alexwaibel.github.io'
+url: 'https://waibel.us'
 permalink: '/:title/'
 disqus:
   shortname: mydisqus
