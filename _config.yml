@@ -5,7 +5,7 @@ external-image: false
 picture: assets/images/profile.png
 resume: true
 resume-external: true
-resume-url: 'https://google.com/?q=my+resume'
+resume-url: 'https://github.com/alexwaibel/resume/blob/master/alex_waibel_resume.pdf'
 url: 'https://alexwaibel.github.io'
 permalink: '/:title/'
 disqus:
