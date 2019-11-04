@@ -12,7 +12,8 @@ comments:
   githubAuth:
     clientId: "Y7ZTr4a1qhCb9y9ymbkyb1vVcTC2tlaa3irdjPBoYsd5oisqJh9+7Bgg+YCjya1KpAuWyCdOEmlWDtfif79rzXmUlxKJVWZngVK5TAUWA5vHkhE4TlMDlUXLLL51Bo0FKmVmeUnx3BMMA+nj0yhIy12NgI9JjlbCSRs+BAx65w0fp/DI/1czrXhZ6QboinqGyBOkuUEQF/asTkhNqxyNO1bfhCI9Ap+xxtH/u5KzpKoi/yYufecJ7xsedsVsr0k8IoUJrl38hbyOkajcPSRDICpEXPGcv3PI66m1KJTOWEa6UiOlFAgfyJe+TPvQQO8BFYQ+MhsmBv3B7L4Zt+VUGg=="
     clientSecret: "ez5lkKcahCX5Ukra67KyvGWkqO2s81nqt8R/rlxPnQAGa5F3qGAXF8+Fe0V2LwtiHWtBkR0+2c6P2lXXIMOFl/CcaqHK3OMWXaSpptFAwuXxyT+1kgk47l4AHQuyToedZaVeXSfKWQ7shmah7YHiOKDVNxsO721F0JYo6Fsn63+XFssOqcSnoqvR3wEZAr5E81oz93qHMx3oi4gli/q24eOn733S005Z/0j55zVgB4vc/SRiplf5SHhk/W6gg5GQEmWcJqHjokKuVRVFkBF0Fv3xJYFXslqy6jMiABA/9YgtEIfdLkeLuOfptoQSQfJnef7smatU9J4UgmEsJ2oq0Q=="
-  moderation: true
+  moderation: false
+  name: "Alex Waibel's Blog"
   path: "src/_data/comments/{options.slug}"
   requiredFields: ["name", "email", "message"]
   transforms:
