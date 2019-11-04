@@ -16,7 +16,5 @@ hop. I'm also crazy about coffee, keyboards, guitar, and video games.</p>
 <h2>Projects</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="/personal-site">Personal Website</a></li>
 </ul>
