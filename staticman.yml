@@ -14,7 +14,7 @@ comments:
     clientSecret: "ez5lkKcahCX5Ukra67KyvGWkqO2s81nqt8R/rlxPnQAGa5F3qGAXF8+Fe0V2LwtiHWtBkR0+2c6P2lXXIMOFl/CcaqHK3OMWXaSpptFAwuXxyT+1kgk47l4AHQuyToedZaVeXSfKWQ7shmah7YHiOKDVNxsO721F0JYo6Fsn63+XFssOqcSnoqvR3wEZAr5E81oz93qHMx3oi4gli/q24eOn733S005Z/0j55zVgB4vc/SRiplf5SHhk/W6gg5GQEmWcJqHjokKuVRVFkBF0Fv3xJYFXslqy6jMiABA/9YgtEIfdLkeLuOfptoQSQfJnef7smatU9J4UgmEsJ2oq0Q=="
   moderation: false
   name: "Alex Waibel's Blog"
-  path: "src/_data/comments/{options.slug}"
+  path: "_comments/{options.slug}"
   requiredFields: ["name", "email", "message"]
   transforms:
     email: md5
