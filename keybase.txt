@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/alexwaibel
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://waibel.us
+  * I am alexwaibel (https://keybase.io/alexwaibel) on keybase.
+  * I have a public key ASBfgrl8AQFzR-MKDTAQsKWXbCDYbW2a8-sXpW2skMkaZQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010170bf1605d7a186e659373fb35746459a9709c15463087a4f14e3b29b45a265970a",
+      "host": "keybase.io",
+      "kid": "01205f82b97c01017347e30a0d3010b0a5976c20d86d6d9af3eb17a56dac90c91a650a",
+      "uid": "c5e465fa55aec50cf04a56d017ff6919",
+      "username": "alexwaibel"
+    },
+    "merkle_root": {
+      "ctime": 1585075391,
+      "hash": "d9c7c09ba36a1f337254f76ffe3f1193ce215ad594f08631527040d609d22f19a3bfeadfd00e17e8f89699d522253698cfdc6f3f02a0e8e2381cc0a175291f53",
+      "hash_meta": "6f32ce4be86ea51ff71fefa6d2fae3780bf2f87868d0bc1e9cb5baa0ba80e507",
+      "seqno": 15586326
+    },
+    "service": {
+      "entropy": "/fxsCL+SgbAwxSnGJD8KLRUK",
+      "hostname": "waibel.us",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.3.0"
+  },
+  "ctime": 1585075421,
+  "expire_in": 504576000,
+  "prev": "b52070062c3a8e6d2714e1e420e88a2d73ccda9fdd5e9d02dc8b4c28e05777c2",
+  "seqno": 62,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgX4K5fAEBc0fjCg0wELCll2wg2G1tmvPrF6VtrJDJGmUKp3BheWxvYWTESpcCPsQgtSBwBiw6jm0nFOHkIOiKLXPM2p/dXp0C3ItMKOBXd8LEIAIzInRNZtNq6vRjEJYnnK0seLXFvUcp1Wu750XXx0sEAgHCo3NpZ8RA1PDBVj3WYKeJTtNTgy2BlkZv12q7H3AgeCssjN4MeOkDbRuMprDj+XHodMG+ccp22J2d7MLO0OOoD4HgKdIQAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIDVCAChIe6HkP3podSktSrgHoAkW7f4/bB0sWOGx4891o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alexwaibel
+
+==================================================================
